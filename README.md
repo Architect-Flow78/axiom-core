@@ -15,3 +15,4 @@ AXIOM does NOT replace your embedding model.
 It wraps it.
 
 License: MIT
+Core invariant layer. For production deployments contact: pascalnicolae78@gmail.com
